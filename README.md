@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kfdOfTrinity
 - 👀 I’m interested in SQL, PL/SQL
-- 🌱 I’m currently learning Phyton, JAVA
+- 🌱 I’m currently learning Python, JAVA
 
 <!---
 kfdOfTrinity/kfdOfTrinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
